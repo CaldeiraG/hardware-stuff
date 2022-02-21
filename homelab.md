@@ -6,7 +6,7 @@
 
 CPU: Intel i5-6400 @ 2.70 GHz
 
-RAM: 2x16GB SODIMM DDR3-2400T @ 2400Mhz
+RAM: 2x16GB SODIMM DDR4-2400T @ 2400Mhz
 
 GPU: integrated
 
