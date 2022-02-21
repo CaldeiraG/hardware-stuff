@@ -34,7 +34,7 @@ It runs 8 VM's:
 
 - Qbittorrent
 
-#### 101 - OVM
+#### 101 - OMV
 
 #### 102 - Windows 11
 

@@ -20,6 +20,8 @@ PSU: Seagate S12II 520W
 
 CASE: Nox Hummer ZX
 
+SO: Windows 11 Pro
+
 Monitor: Samsung TV T22D390 (1080p60hz) / Samsung TV (1360x768) secondary
 
 Keyboard: Epomaker AK84S with Gateron Yellow
@@ -37,7 +39,5 @@ Headphones: ATH-M40x
 Mic: RODE PodMic
 
 Interface: Behringer UMC22
-
-
 
 CPU/RAM/GPU/MOBO were bought in May 2020 roughly, the NVME was bought on Prime Day 2020
