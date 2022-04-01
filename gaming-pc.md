@@ -1,6 +1,6 @@
 # Gaming Computer
 
-#### (updated at 2022-02-21)
+#### (updated at 2022-04-01)
 
 CPU: Ryzen 5 3600X @ 3.8GHz
 
