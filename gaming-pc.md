@@ -4,7 +4,7 @@
 
 CPU: Ryzen 5 3600X @ 3.8GHz
 
-COOLER: Stock with some RGB fans
+COOLER: Cooler Master Hyper 212 Evo v2
 
 RAM: G.Skill Aegis 4x8gb @ 3200Mhz
 
