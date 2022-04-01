@@ -1,6 +1,6 @@
 # Hardware Stuff
 
-#### (updated at 2022-02-21)
+#### (updated at 2022-04-01)
 
 Welcome to my repository where I keep track of my hardware stuff. It consists of my gaming PC and the homelab stuff I have going around. This page will be updated when I get any new and shiny hardware or get rid of something.
 
