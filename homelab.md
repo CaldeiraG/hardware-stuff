@@ -1,6 +1,6 @@
 # Homelab
 
-#### (updated at 2022-02-21)
+#### (updated at 2022-04-01)
 
 ## Lenovo ThinkCentre M700 Tiny
 
@@ -64,7 +64,17 @@ It runs 8 VM's:
 
 #### 108 - macOS VM
 
-![Proxmox overview](https://cdn.caldeirag.xyz/hOli8/LuMAmaGU03.png/raw)
+#### 109 - Reverse Proxy LXC
+
+- Nginx Proxy Manager
+
+- Authentik
+
+- Vaultwarden
+
+#### 110 - Unifi Controller
+
+![Proxmox overview](https://i.imgur.com/Z0CjasJ.png)
 
 ## Raspberry Pi 4B - 4GB RAM
 
@@ -79,3 +89,5 @@ Running AdGuardHome at cousin's place while moving is still underway.
 ## ASUSTOR AS6102T - 2x12TB Seagate Exos (soon™)
 
 This will eventually replace the 2TB drive and become the main storage server for the media server. It will most likely run as RAID 0 so I get the most out of it and video files or generally available series is not a concern if I lose it. These will probably last long enough and if I ever need more storage a bigger NAS (or a dedicated storage server) will overcome it
+
+## In progress - 2x Unifi U6-Lite + Asus AX56U (ISP router in bridge mode)
