@@ -112,8 +112,8 @@ Not sure what to do with this one atm
 
 This will eventually replace the 2TB drive and become the main storage server for the media server. It will most likely run as RAID 0 so I get the most out of it and video files or generally available series is not a concern if I lose it. These will probably last long enough and if I ever need more storage a bigger NAS (or a dedicated storage server) will overcome it
 
-## Network In progress - 2x Unifi U6-Lite + Asus AX56U (ISP router in bridge mode)
+## Network In progress
 
 - 2x Unifi U6-Lite
 - Asus AX56U as replacement for ISP router with AsusWRT-Merlin
-- USW-Lite-8-POE
+- USW-Lite-8-POE powers the homelab, one of the U6-Lites and the PC
