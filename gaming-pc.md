@@ -8,7 +8,7 @@ COOLER: Cooler Master Hyper 212 Evo v2
 
 RAM: G.Skill Aegis 4x8gb @ 3200Mhz
 
-GPU: MSI Radeon RX 580 Armor 8G
+GPU: EVGA GTX 1080 Ti FTW3 GAMING ~~MSI Radeon RX 580 Armor 8G~~ (this one is having issues)
 
 MOBO: MSI B450-A Pro Max
 
