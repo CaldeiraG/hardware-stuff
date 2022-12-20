@@ -1,6 +1,6 @@
 # Homelab
 
-#### (updated at 2022-05-09)
+#### (updated at 2022-12-20)
 
 ## Lenovo ThinkCentre M700 Tiny
 
@@ -96,6 +96,20 @@ It runs 8 VM's:
 
 #### 113 - AdGuardHome LXC
 
+## Dell Optiplex 3080 Mini
+
+CPU: Intel i5-10500T @ 2.30 GHz
+
+RAM: 2x16GB SODIMM DDR4-2666T @ 2666Mhz
+
+GPU: integrated
+
+SDD: 32gb Toshiba flash boot drive (local) / 250gb Teamgroup SSD (local-lvm) for VM storage / 1tb Samsung 970 Evo Plus (fast-af-boi)
+
+SO: Proxmox 7
+
+It runs two Windows VM's
+
 ![Proxmox overview](https://eu2.contabostorage.com/4acdd888060f42c3822d59f568b40046:calcdn/ShareX/2022/05/vivaldi_mzS9yuGHiY.png)
 
 ## Raspberry Pi 4B - 4GB RAM
@@ -108,9 +122,7 @@ It runs 8 VM's:
 
 Not sure what to do with this one atm
 
-## ASUSTOR AS6102T - 2x12TB Seagate Exos
-
-This will eventually replace the 2TB drive and become the main storage server for the media server. It will most likely run as RAID 0 so I get the most out of it and video files or generally available series is not a concern if I lose it. These will probably last long enough and if I ever need more storage a bigger NAS (or a dedicated storage server) will overcome it
+## ASUSTOR AS6102T - 2x12TB Seagate Exos - Mediaserver Storage
 
 ## Network
 
