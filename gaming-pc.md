@@ -20,7 +20,7 @@ PSU: Seagate S12II 520W
 
 Case: Nox Hummer ZX
 
-SO: [Fedora GNOME UBlue Image](https://universal-blue.org) / Windows 11 Enterprise
+SO: [Fedora Silverblue UBlue Image](https://universal-blue.org) / Windows 11 Enterprise
 
 Monitor: LG 27GN800-B (1440p@144hz) / Samsung TV T22D390 (1080p60hz)
 
