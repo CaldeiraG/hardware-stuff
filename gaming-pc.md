@@ -1,6 +1,6 @@
 # Gaming Computer
 
-#### (updated at 2023-11-03)
+#### (updated at 2024-02-20)
 
 CPU: Ryzen 5 3600X @ 3.8GHz
 
@@ -22,7 +22,7 @@ Case: Nox Hummer ZX
 
 SO: [Fedora Silverblue UBlue Image](https://universal-blue.org) / Windows 11 Enterprise
 
-Monitor: LG 27GN800-B (1440p@144hz) / Samsung TV T22D390 (1080p60hz)
+Monitor: MSI G281UV (4k@60hz) / LG 27GN800-B (1440p@144hz) 
 
 Keyboard: Keychron K8 Pro (milky yellow switches)
 

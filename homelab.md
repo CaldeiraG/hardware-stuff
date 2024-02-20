@@ -1,6 +1,6 @@
 # Homelab
 
-#### (updated at 2023-11-03)
+#### (updated at 2024-02-20)
 
 ## [Intel® NUC 10 Performance - NUC10i7FNHAA](https://www.intel.com/content/www/us/en/products/sku/188813/intel-nuc-10-performance-mini-pc-nuc10i7fnhaa/specifications.html)
 
@@ -112,5 +112,5 @@ Not sure what to do with this one atm
 - USW-Lite-8-POE powers the homelab, one of the U6-Lites and the PC
 
 ## Previous devices
-- Lenovo Thinkcentre M700
+- Lenovo Thinkcentre M700 Tiny
 - Raspberry Pi 4B 4GB
