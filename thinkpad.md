@@ -1,6 +1,6 @@
 # Lenovo Thinkpad T480
 
-#### (updated at 2024-02-20)
+#### (updated at 2025-01-20)
 
 CPU: Intel i5-8350U
 
@@ -10,6 +10,6 @@ RAM: SK.Hynix 32GB 2400T
 
 SSD: 250gb Samsung SSD
 
-SO: Fedora Workstation 39
+SO: Fedora Workstation 40
 
 

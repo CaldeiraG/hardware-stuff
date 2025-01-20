@@ -1,6 +1,6 @@
 # Gaming Computer
 
-#### (updated at 2024-02-20)
+#### (updated at 2025-01-20)
 
 CPU: Ryzen 5 3600X @ 3.8GHz
 
@@ -20,19 +20,19 @@ PSU: Seagate S12II 520W
 
 Case: Nox Hummer ZX
 
-SO: [Fedora Silverblue UBlue Image](https://universal-blue.org) / Windows 11 Enterprise
+SO: Windows 11 Enterprise (intending to use Linux again on a newer GPU, who knows)
 
 Monitor: MSI G281UV (4k@60hz) / LG 27GN800-B (1440p@144hz) 
 
 Keyboard: Keychron K8 Pro (milky yellow switches)
 
-Mouse: Logitech G Pro X Superlight
+Mouse: Kysona M600
 
 Mousepad: some €10 XXL mousepad with world map
 
 Speakers: Trust 2.1 system
 
-Webcam: None
+Webcam: Logi C922 Pro
 
 Headphones: Beyerdynamics DT990 Pro Black Edition
 
