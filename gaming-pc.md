@@ -8,7 +8,7 @@ Cooler: Cooler Master Hyper 212 Evo v2
 
 RAM: G.Skill Aegis 4x8gb @ 3200Mhz
 
-GPU: EVGA GTX 1080 Ti FTW3 GAMING
+GPU: Asus Phoenix GeForce RTX 3060 V2 12GB GDDR6
 
 MOBO: MSI MAG B550 TOMAHAWK
 
